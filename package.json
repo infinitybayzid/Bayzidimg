@@ -1,0 +1,10 @@
+{
+  "name": "cinebuzzbd-screenshot",
+  "version": "1.0.0",
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "axios": "^1.6.7",
+    "canvas": "^2.11.2",
+    "fluent-ffmpeg": "^2.1.2"
+  }
+}
